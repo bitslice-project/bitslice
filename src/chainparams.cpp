@@ -155,7 +155,7 @@ public:
 		genesis.nNonce = 0;
 
 
-		assert(hashGenesisBlock == uint256("0x0000285700c77314f55a6246d130d9e754f643ea80bc899b74bfeedc69211548"));
+		assert(hashGenesisBlock == uint256("0x0000118c7c3cd12384e84f9a35673082f70296b70837907d68b3f8ab2893ae78"));
 
 		vFixedSeeds.clear();
 		vSeeds.clear();
